@@ -232,3 +232,71 @@ h5 {
 h4 {
     color: var(--text-color);
 }
+
+/* RESPONSIVENESS */
+@media (max-width: 668px) {
+    .container {
+        grid-template-columns: 1fr;
+    }
+
+    .container .left-side,
+    .container .right-side {
+        padding: 10px;
+    }
+
+    .img-box img {
+        width: 80px;
+        height: 80px;
+    }
+
+    h1 {
+        font-size: 1.2rem;
+    }
+
+    .dev {
+        font-size: 0.9rem;
+    }
+
+    p {
+        font-size: 0.7rem;
+    }
+
+    .contact-info ul li {
+        font-size: 0.8rem;
+    }
+
+    li a {
+        font-size: 0.8rem;
+    }
+
+    .icon {
+        font-size: 0.8rem;
+    }
+
+    .title {
+        font-size: 0.9rem;
+    }
+
+    li h3 {
+        font-size: 0.8rem;
+    }
+
+    li h4 {
+        font-size: 0.6rem;
+    }
+
+    .about .box .year-company {
+        min-width: auto;
+        /* Remove min-width */
+    }
+}
+
+/* Additional CSS for even smaller screens  */
+@media (max-width: 480px) {
+
+    .container .left-side,
+    .container .right-side {
+        padding: 5px;
+        /* Further reduce padding */
+    }
+}
