@@ -133,11 +133,8 @@
         <div class="about">
           <h2 class="title2">Profile</h2>
           <p>
-            A hybrid Frontend Developer and UI/UX professional with a proven track record of bringing complex designs to life using
-            modern frameworks. I possess a solid foundation in full-stack concepts (JavaScript, HTML, CSS, SQL, PHP) refined by profes-
-            sional experience in React development and advanced component work within platforms like Framer and Figma. I excel at
-            creating pixel-perfect, highly performant user interfaces and am actively looking for a dynamic role where my dual expertise
-            can elevate both the codebase and the user experience.
+            I am a UI/UX designer with a solid foundation in programming, looking to transition into a career in frontend web development after completing a full-stack development bootcamp, where I gained skills in HMTL, CSS, JavaScript, React, SQL, and PHP, while completing individual and group projects. I am looking for a challenging role as a frontend developer to apply my coding skills as well as bringing significant value to the team. 
+
           </p>
         </div>
         <div class="about">
@@ -146,22 +143,14 @@
 
            <div class="box">
             <div class="year-company">
-              <h5>June 2024 - Nov 2025</h5>
-              <h5>Frontend Develop-
-                er and UX/UI De-
-                signer</h5>
+              <h5>Oct 2023</h5>
+              <h5>Designed and Developed</h5>
             </div>
             <div class="text">
               <div class="job">
-                <h3>Brand Engagement Network</h3>
+                <h3>CHREATE</h3>
               </div>
-              <p>Avatar Creator Platform: Engineered a full-stack React application with Unity WebGL integra-
-                tion to deliver a real-time, step-by-step 3D avatar customization platform. Optimized perfor-
-                mance using strategic React Query for data fetching and implemented complex state manage-
-                ment (Context/localStorage) across 15+ customization steps.
-                Corporate Website (BENinc.ai): Co-designed the website UI/UX in Figma and led its subsequent
-                development and implementation in Framer, ensuring full responsiveness to articulate the
-                company's enterprise AI solutions.</p>
+              <p>Co-developed and implemented a dynamic social media platform utilizing HTML, CSS, JavaScript, PHP, and SQL. Introduced a daily challenge feature prompting users to engage actively by accepting and creatively responding to challenges through multimedia content, fostering a vibrant and interactive user community. Demonstrated proficiency in full-stack development and collaborative problem-solving.</p>
             </div>
           </div>
 
@@ -287,4 +276,6 @@
     </div>
   </body>
 </html>
+
+
 
